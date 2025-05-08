@@ -76,6 +76,11 @@ body p {
   font-size: 24px;
 }
   
+.line{
+  height: 1px;
+  width: 100%;
+  background-color: #F2F5F9;
+}
 .coment{
   margin-top: 24px;
   display: flex;
